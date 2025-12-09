@@ -24,7 +24,8 @@
     },
     "Ref": {
       "type": "http",
-      "url": "https://api.ref.tools/mcp?apiKey=YOUR_REF_API_KEY"
+      "url": "https://api.ref.tools/mcp?apiKey=YOUR_REF_API_KEY",
+      "disabled": false
     },
     "shadcn": {
       "type": "stdio",
@@ -34,7 +35,8 @@
     },
     "supabase": {
       "type": "http",
-      "url": "https://mcp.supabase.com/mcp?project_ref=YOUR_SUPABASE_PROJECT_REF&features=docs%2Caccount%2Cdatabase%2Cdevelopment%2Cdebugging%2Cfunctions%2Cbranching%2Cstorage"
+      "url": "https://mcp.supabase.com/mcp?project_ref=YOUR_SUPABASE_PROJECT_REF&features=docs%2Caccount%2Cdatabase%2Cdevelopment%2Cdebugging%2Cfunctions%2Cbranching%2Cstorage",
+      "disabled": false
     },
     "chrome-devtools": {
       "type": "stdio",
@@ -57,6 +59,26 @@
       },
       "disabled": false
     },
+    "hugeicons": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "@hugeicons/mcp-server"],
+      "disabled": false
+    },
+    "next-devtools": {
+      "command": "npx",
+      "args": ["-y", "next-devtools-mcp@latest"],
+      "disabled": false
+    },
+    "morph-mcp": {
+      "command": "npx",
+      "args": ["-y", "@morphllm/morphmcp"],
+      "env": {
+        "MORPH_API_KEY": "YOUR_MORPH_API_KEY",
+        "ENABLED_TOOLS": "all"
+      },
+      "disabled": false
+    },
     "task-master-ai": {
       "type": "stdio",
       "command": "npx",
@@ -66,12 +88,6 @@
       },
       "disabled": true
     },
-    "hugeicons": {
-      "type": "stdio",
-      "command": "npx",
-      "args": ["-y", "@hugeicons/mcp-server"],
-      "disabled": false
-    },
     "context7": {
       "type": "http",
       "url": "https://mcp.context7.com/mcp",
@@ -79,18 +95,6 @@
         "CONTEXT7_API_KEY": "YOUR_CONTEXT7_API_KEY"
       },
       "disabled": true
-    },
-    "next-devtools": {
-      "command": "npx",
-      "args": ["-y", "next-devtools-mcp@latest"]
-    },
-    "morph-mcp": {
-      "command": "npx",
-      "args": ["-y", "@morphllm/morphmcp"],
-      "env": {
-        "MORPH_API_KEY": "YOUR_MORPH_API_KEY",
-        "ENABLED_TOOLS": "all"
-      }
     }
   }
 }
